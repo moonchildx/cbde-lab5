@@ -5,8 +5,8 @@ from query4 import query4
 from print_results_q3_q4 import print_query3, print_query4
 
 if __name__ == "__main__":
-    reset_collections()
-    insert_sample_data()
+    # reset_collections()
+    # insert_sample_data()
     create_indexes()
 
     # Run Query 3
